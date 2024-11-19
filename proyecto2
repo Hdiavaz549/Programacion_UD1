@@ -1,1 +1,10 @@
+import  java.util.Scanner;
 public static void main
+int operacion, num1, num2, suma, resta, multi, division, raiz;
+System.out.println()
+System.out.println("1.Suma");
+System.out.println("2.Resta");
+System.out.println("3.Multiplicación");
+System.out.println("4.División");
+System.out.println("5.Raiz Cuadrada");
+
